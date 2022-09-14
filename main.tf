@@ -15,7 +15,7 @@ terraform {
     organization = "ACG-Terraform-Demos-FDM"
 
     workspaces {
-      name = "demo-fithub-actions"
+      name = "demo-github-actions"
     }
   }
 }
