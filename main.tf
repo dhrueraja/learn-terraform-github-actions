@@ -12,7 +12,7 @@ terraform {
   required_version = "~> 1.0"
 
   backend "remote" {
-    organization = "ACG-Terraform-Desmos-FDM"
+    organization = "ACG-Terraform-Demos-FDM"
 
     workspaces {
       name = "demo-fithub-actions"
